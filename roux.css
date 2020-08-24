@@ -13,14 +13,3 @@ border-left: 1px solid #e8dd63;
 border-right: 1px solid #000000;
 border-bottom: 1px solid #000000;
 transition:all 1s ease;}
-
-.andyc {
-  width:px;
-  font:12px Calibri;
-  color:#9e9e9e;
-  letter-spacing:2px;
-  transition:all 1s ease;} 
-
-.andyc:hover {
-  color:#e8dd63;
-  transition:all 1s ease;}
