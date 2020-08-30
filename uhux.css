@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+.uhux1 { 
+width: 300px;
+font: 40px Nanum Brush Script;
+color: #617c8c;
+-moz-transform:rotate(-33deg); 
+-webkit-transform:rotate(-33deg);
+margin-top: -70px;} 
+
+.uhux2 { 
+width: 100px;
+font: 10px Calibri;
+color: #9e9e9e;
+-moz-transform:rotate(-90deg);
+-webkit-transform:rotate(-90deg);
+position: relative;
+bottom: 110px;
+right: 110px;} 
+
+.uhux3 { 
+width: 100px;
+font: 10px Calibri;
+color: #9e9e9e;
+-moz-transform:rotate(90deg);
+-webkit-transform:rotate(90deg);
+position: relative;
+bottom: 108px;
+left: 109px;}
