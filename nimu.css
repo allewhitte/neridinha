@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Hi+Melody&display=swap');
+
+#n1
+{font-family:Hi Melody;
+font-size:38px;
+text-align:center;
+color:#8c8c00;text-shadow:1px 1px #000;
+position:center;
+margin-bottom:-5px;}
+
+#n2
+{width:110px;
+height:100px;
+padding:4px 0px 0px 4px;
+border-top:1px solid #926c5c;
+border-left:1px solid #8c8c00;}
+
+#n3
+{width:124px;
+font-size:12px;
+text-transform:uppercase;
+font-family:Acme;
+color:#926c5c;
+text-align:center;
+position:relative;
+-moz-transform:rotate(90deg);
+-webkit-transform:rotate(90deg);
+margin-right:-58px;
+margin-left:-56px;}
+
+#n4
+{width:110px;
+height:100px;
+padding:0px 4px 4px 0px;
+border-bottom:1px solid #926c5c;
+border-right:1px solid #8c8c00;}
+
+#n5
+{width:100px;
+height:100px;
+padding:4px;
+border:1px solid #8c8c00;}
